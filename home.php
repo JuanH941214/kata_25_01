@@ -28,7 +28,7 @@
     <div>
         <?php
 
-        // var_dump($activities[0]);
+
 
         if (isset($_GET['selectedActivity'])) {
             $activityStudent = $_GET['selectedActivity'];
